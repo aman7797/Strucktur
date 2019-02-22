@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184580633103",
+    "firebase_url": "https://strucktur-f61f7.firebaseio.com",
+    "project_id": "strucktur-f61f7",
+    "storage_bucket": "strucktur-f61f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184580633103:android:08585e867faaff37",
+        "android_client_info": {
+          "package_name": "com.example.strucktur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184580633103-7c7vroc8prb7i8l5l4bhdu80c6crlknp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strucktur",
+            "certificate_hash": "fc278748f878ed6fa97518aabfaa516c3d7d54c9"
+          }
+        },
+        {
+          "client_id": "184580633103-npn75b97pc5fmh522ufm7ghk0i30vii5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvL2HA1KXHnLBVyVtsb7JEhekgQbclSHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184580633103-npn75b97pc5fmh522ufm7ghk0i30vii5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
